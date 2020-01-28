@@ -8,5 +8,5 @@
 * dotnet run
 
 ## Plans
- - [] multiple emotions, not only UwU (enum? class? .txt?)
- - [] more .NET/C# way?
+- [ ] multiple emotions, not only UwU (enum? class? .txt?)
+- [ ] more .NET/C# way?
